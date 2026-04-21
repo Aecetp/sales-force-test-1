@@ -60,8 +60,8 @@ This repository contains a customized Salesforce solution for Acme Services to m
 ## 3. Repository Paths & Metadata
 
 **Programmatic Components (Included in this repo):**
-* **LWC:** `/force-app/main/default/lwc/engagementSummary`
-* **Apex Class:** `/force-app/main/default/classes/EngagementSummaryController.cls`
+* **LWC:** `engagement_project/force-app/main/default/lwc/engagementSummary`
+* **Apex Class:** `engagement_project/force-app/main/default/classes/EngagementSummaryController.cls`
 
 **Declarative Metadata (Demonstrated via Visual Evidence):**
 * **Flow:** `Opportunity Record - V3`
